@@ -18,6 +18,5 @@ Versatile IT professional with experience in support, technical assistance, and 
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 <br><br>
-### Show some ❤️ by starring some of the repositories!
 
 </div>
