@@ -1,13 +1,9 @@
 ## Hey there 👋, I'm [Gabriel!](https://github.com/Gabriel96-G)
 
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
 <br><br>
 
 Versatile IT professional with experience in support, technical assistance, and sales. Skilled in Looker, Power BI, SQL, and Python, with expertise in troubleshooting and first-line support. Currently expanding knowledge in data engineering.
-
-
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
-<br><br>
 
 ### Talking about Personal Stuff:
 
