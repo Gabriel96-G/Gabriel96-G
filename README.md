@@ -3,7 +3,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 <br><br>
 
-Versatile IT professional with experience in technical support, troubleshooting, data analysis, and monitoring dashboards. Skilled in Looker, Power BI, SQL, Python, and Java. Currently working in Data Engineering and Business Analytics on AWS, leveraging services such as Amazon Athena, S3, Redshift, QuickSight and Kibana to build data pipelines, analyze large datasets, and deliver scalable, data-driven insights for stakeholders. Continuously improving my expertise in Data Engineering and cloud-based analytics solutions.
+Versatile IT professional with experience in technical support, troubleshooting, data analysis, and monitoring dashboards. Skilled in Looker, Power BI, SQL, Python, and Java. Currently working in Data Engineering and Business Analytics on AWS, leveraging services such as Amazon Athena, Amazon Connect, S3, Redshift, QuickSight and Kibana to build data pipelines, analyze large datasets, and deliver scalable, data-driven insights for stakeholders. Continuously improving my expertise in Data Engineering and cloud-based analytics solutions.
 
 ### Talking about Personal Stuff:
 
@@ -12,9 +12,14 @@ Versatile IT professional with experience in technical support, troubleshooting,
 - 📫 &nbsp; Reach me out: amedrano9624@gmail.com.
 - 💻 &nbsp; I love exploring new technologies.
 
-### ☁️ Cloud & Data Engineering:
+### ☁️ Cloud & Data Engineering
+AWS (Athena, S3, Redshift, QuickSight, Amazon Connect):
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+AWS (Athena, S3, Redshift, QuickSight, Amazon Connect)
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/kibana/kibana.png"></code>
+Kibana
+
 
 ### Languages and Tools:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -27,7 +32,6 @@ Versatile IT professional with experience in technical support, troubleshooting,
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png" alt="powerbi"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="github"></code>
 
