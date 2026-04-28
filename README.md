@@ -13,7 +13,7 @@ Versatile IT professional with experience in technical support, troubleshooting,
 - 💻 &nbsp; I love exploring new technologies.
 
 ### ☁️ Cloud & Data Engineering
-AWS (Athena, S3, Redshift, QuickSight, Amazon Connect):
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 AWS (Athena, S3, Redshift, QuickSight, Amazon Connect)
 
