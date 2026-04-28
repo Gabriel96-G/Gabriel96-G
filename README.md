@@ -22,13 +22,13 @@ Versatile IT professional with experience in technical support, troubleshooting,
 ![Amazon Connect](https://img.shields.io/badge/Amazon%20Connect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/amazon-s3/amazon-s3.png" alt="s3"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/amazon-redshift/amazon-redshift.png" alt="redshift"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/kibana/kibana.png" alt="kibana"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" /></code>
 
 **AWS Services:** Amazon Athena, S3, Redshift, QuickSight, and Amazon Connect
 
