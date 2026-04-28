@@ -7,7 +7,7 @@ Versatile IT professional with experience in support, technical assistance, and 
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Python, R, SQL, Looker Studio, Powerr BI, etc.
+- 🛠 &nbsp; I’m currently working with Python, Java, R, HTML, CSS, Java Script, SQL, Looker Studio, Power BI, etc.
 - 🚀 &nbsp; I’m currently exploring Data Sciences and Data Engineer.
 - 📫 &nbsp; Reach me out: amedrano9624@gmail.com.
 - 💻 &nbsp; I love exploring new technologies.
