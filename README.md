@@ -15,7 +15,8 @@ Versatile IT professional with experience in technical support, troubleshooting,
 ### ☁️ Cloud & Data Engineering
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"></code>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
 ![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
@@ -24,7 +25,7 @@ Versatile IT professional with experience in technical support, troubleshooting,
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 
-**AWS Services:** Amazon Athena, S3, Redshift, QuickSight, and Amazon Connect
+**AWS Services:** Amazon Athena, S3, Redshift, QuickSight, Kibana, and Amazon Connect
 
 ### Languages and Tools:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
