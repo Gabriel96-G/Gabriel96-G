@@ -14,11 +14,13 @@ Versatile IT professional with experience in technical support, troubleshooting,
 
 ### ☁️ Cloud & Data Engineering
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
-AWS (Athena, S3, Redshift, QuickSight, Amazon Connect)
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/kibana/kibana.png"></code>
-Kibana
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/amazon-s3/amazon-s3.png" alt="amazon s3"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/amazon-redshift/amazon-redshift.png" alt="amazon redshift"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/kibana/kibana.png" alt="kibana"></code>
 
 
 ### Languages and Tools:
